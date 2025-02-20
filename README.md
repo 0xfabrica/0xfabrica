@@ -1,55 +1,53 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Izan Medkouri Lopez! 👋
 
-![Bienvenido](https://media.giphy.com/media/3o7btOaXUjvC3Z9d0M/giphy.gif)
+![Python Code](https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif)
 
-Soy un profesional con 4 años de experiencia en **blockchain** y tecnología **Web3**, especializado en **Data Science**, Machine Learning y Exploratory Data Analysis (EDA). Mi pasión es transformar datos en soluciones innovadoras, combinando tecnologías emergentes y estrategias efectivas para generar un impacto real.
+Soy un profesional con 4 años de experiencia en **blockchain** y tecnología **Web3**, especializado en **Data Science** y Machine Learning. Con un profundo conocimiento en inversión y tecnología, he implementado soluciones innovadoras en entornos blockchain y estrategias que maximizan la visibilidad y el engagement.  
+Originario de **Alcázar de San Juan, Ciudad Real**, combino la creatividad técnica con un enfoque analítico para transformar datos en insights accionables.
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
 [![Python](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
-[![R](https://img.shields.io/badge/R-4.0.2-blue?style=for-the-badge&logo=r)](https://www.r-project.org/)  
-[![SQL](https://img.shields.io/badge/SQL-MySQL-orange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-
-[![Data Science](https://img.shields.io/badge/Data%20Science-Python%20%26%20R-green?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Data_science)  
-[![ML](https://img.shields.io/badge/Machine%20Learning-TensorFlow-red?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)  
-[![EDA](https://img.shields.io/badge/EDA-Exploratory_Data_Analysis-brightgreen?style=for-the-badge)](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
-
-[![Blockchain](https://img.shields.io/badge/Blockchain-SmartContracts-black?style=for-the-badge&logo=ethereum)](https://ethereum.org/)  
-[![Web3](https://img.shields.io/badge/Web3-DeFi-blueviolet?style=for-the-badge)](https://en.wikipedia.org/wiki/Web3)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Expert-green?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/)  
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced-red?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)  
+[![Blockchain](https://img.shields.io/badge/Blockchain-Innovative-black?style=for-the-badge&logo=ethereum)](https://ethereum.org/)  
+[![SQL](https://img.shields.io/badge/SQL-Expert-orange?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 ---
 
 ## 📊 Mis Estadísticas en GitHub
 
-[![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?0xfabrica=0xfabrica&show_icons=true&theme=radical)](https://github.com/0xfabrica)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xfabrica&show_icons=true&theme=radical)](https://github.com/0xfabrica)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfabrica&layout=compact&theme=radical)](https://github.com/0xfabrica)
 
 ---
 
 ## 📌 Proyectos Destacados
 
-- **Proyecto Blockchain X**: Implementación de soluciones blockchain innovadoras.  
-- **Proyecto Data Science Y**: Análisis de datos y desarrollo de modelos predictivos para optimizar procesos.  
-- **Proyecto Marketing Digital Z**: Estrategia y ejecución de campañas que han incrementado el engagement.
+- **Proyecto Blockchain X**: Desarrollo e implementación de soluciones blockchain que optimizan procesos de inversión.  
+- **Proyecto Data Science Y**: Análisis de datos y creación de modelos predictivos para transformar la toma de decisiones.  
+- **Proyecto ML Z**: Diseño y puesta en marcha de modelos de Machine Learning para resolver problemas complejos en entornos tecnológicos.
 
-> ![Project Gif](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
-> *(Agrega capturas o GIFs de tus proyectos para hacerlos más interactivos.)*
+> ![Data Science](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)  
+> *(Ejemplo visual de un proceso de análisis de datos que impulsa la innovación tecnológica.)*
 
 ---
 
 ## 💬 Contacta Conmigo
 
-Estoy abierto a colaboraciones y nuevas oportunidades.  
-Puedes contactarme a través de [LinkedIn](https://linkedin.com/in/tuusuario) o enviarme un correo a [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com).
+Estoy abierto a colaboraciones y nuevas oportunidades en el mundo del **Data Science** y la **innovación blockchain**.  
+- **Ubicación:** Alcázar de San Juan, Ciudad Real, España  
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
 
 ---
 
 ## 🎯 Mi Filosofía
 
-_"Fusiono tecnología y datos para transformar ideas en soluciones tangibles. Creo en la innovación y la creatividad como motores de cambio."_
+_"Fusiono tecnología y datos para transformar ideas en soluciones tangibles. Creo en la innovación y en el poder del análisis para generar un impacto real."_
 
 ---
 
-¡Gracias por visitar mi perfil y explorar mis proyectos! 🚀
+¡Gracias por visitar mi perfil y explorar mis proyectos!
