@@ -23,8 +23,8 @@ Soy un profesional con 4 años de experiencia en **blockchain** y tecnología **
 
 ## 📊 Mis Estadísticas en GitHub
 
-[![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)](https://github.com/tuusuario)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)](https://github.com/tuusuario)
+[![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?0xfabrica=0xfabrica&show_icons=true&theme=radical)](https://github.com/0xfabrica)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xfabrica&layout=compact&theme=radical)](https://github.com/0xfabrica)
 
 ---
 
