@@ -52,6 +52,8 @@ _Puedes probarlo directamente desde este enlace: https://creditcard-deploy.strea
 
 ![0xfabrica's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xfabrica&theme=nightowl&hide_border=true)
 
+![0xfabrica's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xfabrica&theme=nightowl&hide_border=true)
+
 ---
 
 ## 💡 Filosofía Técnica
