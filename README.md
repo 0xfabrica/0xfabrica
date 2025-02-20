@@ -26,19 +26,19 @@ Con 4 años de experiencia técnica en **Web3** y **Data Science**, desarrollo s
 
 ## 🔍 Proyectos Reales
 
-### [🦜 Clasificación de Flores Iris](https://github.com/0xfabrica/iris_project) :cite[2]
+### [🦜 Clasificación de Flores Iris](https://github.com/0xfabrica/iris_project):cite[2]
 _Modelo de ML para clasificar especies de flores con 97.7% de precisión_
 - **Stack**: Python | Scikit-learn | SQLite
 - **Logros**: Pipeline completo desde extracción SQL hasta despliegue predictivo
 - **Técnica clave**: Regresión logística multinomial con optimización de hiperparámetros
 
-### [⛅ Predictor Meteorológico](https://github.com/0xfabrica/predict-weather) :cite[4]
+### [⛅ Predictor Meteorológico](https://github.com/0xfabrica/predict-weather):cite[4]
 _Sistema de clasificación climática con Random Forest (91% accuracy)_
 - **Stack**: Pandas | Matplotlib | Scikit-learn
 - **Insights**: Identificación de patrones en presión atmosférica y humedad
 - **Dataset**: 15+ variables meteorológicas históricas
 
-### [☕ Análisis de Ventas de Café](https://github.com/0xfabrica/cafe-sales) :cite[6]
+### [☕ Análisis de Ventas de Café](https://github.com/0xfabrica/cafe-sales):cite[6]
 _Limpieza y modelado predictivo de dataset complejo (R² 0.99)_
 - **Desafío**: 10k registros con valores faltantes y errores categóricos
 - **Solución**: Pipeline ETL con imputación KNN + modelo XGBoost
