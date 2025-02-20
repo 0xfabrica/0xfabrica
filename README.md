@@ -50,8 +50,6 @@ _Puedes probarlo directamente desde este enlace: https://creditcard-deploy.strea
 
 ## 📌 Métricas de Código
 
-[![Commits Activity](https://github-readme-stats.vercel.app/api/wakatime?username=0xfabrica&layout=compact&theme=dark&hide_border=true)](https://github.com/0xfabrica)
-
 ![0xfabrica's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xfabrica&theme=nightowl&hide_border=true)
 
 ---
