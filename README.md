@@ -78,7 +78,6 @@ _Puedes probarlo directamente desde este enlace: https://creditcard-deploy.strea
 **Canales técnicos:**
 - 🐛 **Issues en repos**: [Reportar bugs](https://github.com/0xfabrica/sales_data/issues)
 - 📄 **Propuestas técnicas**: izanfabrica2014@icloud.com
-- 💻 **Pair programming**: Discord: user#1234
-
+- 
 ![Coding Flow](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
