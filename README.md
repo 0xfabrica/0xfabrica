@@ -1,5 +1,5 @@
 # ¡Hola, soy Izan Medkouri Lopez! 👋  
-**Machine Learning Engineer | Data Science Specialist**  
+**Machine Learning | Data Science**  
 
 [![GitHub Follow](https://img.shields.io/github/followers/0xfabrica?label=Follow%20My%20Code&style=social)](https://github.com/0xfabrica)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/izan-medkouri-a01071266/)
@@ -13,17 +13,29 @@ Desarrollador full-stack enfocado en soluciones data-driven, con 4 años de expe
 
 ## 🏆 Proyectos Destacados
 
-### [📈 Sales Data Dashboard](https://github.com/0xfabrica/sales_data)
-_Panel interactivo de análisis de ventas con ETL automatizado_
-- **Stack**: Python (Pandas) | SQLite | Streamlit
-- **Logros**: Procesamiento de 50k+ registros con transformaciones en tiempo real
-- **Técnicas**: Feature engineering para forecast de demanda
+### [📊 Predicción de Precio de Cierre de NVDA](https://github.com/0xfabrica/nvda_lr)
+_Aplicación de Machine Learning para predecir el precio de cierre de NVDA con levantamiento de api con fastapi_
+- **Stack**: Python | FastAPI | Streamlit | Scikit-learn
+- **Logros**: Precisión del modelo 0.9999 en regresión lineal
+- **Técnicas**: Preprocesamiento avanzado de datos y API de predicción
 
-### [🧠 ML Credit Risk Model](https://github.com/0xfabrica/credit_risk_model)
-_Sistema de scoring crediticio con XGBoost (AUC 0.92)_
-- **Dataset**: 15 variables financieras de 30k clientes
-- **Innovación**: Pipeline automático de preprocesamiento con PySpark
-- **Resultado**: Reducción de riesgo crediticio en un 18% simulado
+### [🛡️ Detección de Phishing con ML](https://github.com/0xfabrica/phising-detection-ml)
+_Modelo de Machine Learning para identificar URLs sospechosas de phishing_
+- **Stack**: Python | Streamlit | Scikit-learn
+- **Logros**: Precisión del 98% en detección de phishing
+- **Técnicas**: Feature engineering y Random Forest Classifier
+_Puedes probarlo directamente desde este enlace: https://phising-detection-ml.streamlit.app/_
+
+### [💳 Modelo de Morosidad en Tarjetas de Crédito](https://creditcard-deploy.streamlit.app/)
+*Sistema de Machine Learning para predecir morosidad en clientes*
+
+- **Stack**: Python | Streamlit | Scikit-learn | XGBoost
+- **Logros**: Precisión del 99% en predicción de impago
+- **Técnicas**: Feature engineering, Random Forest y XGBoost
+_Puedes probarlo directamente desde este enlace: https://creditcard-deploy.streamlit.app/_
+
+
+
 
 ---
 
