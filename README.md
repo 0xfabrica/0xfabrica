@@ -30,7 +30,7 @@ _Puedes probarlo directamente desde este enlace: https://phising-detection-ml.st
 *Sistema de Machine Learning para predecir morosidad en clientes*
 
 - **Stack**: Python | Streamlit | Scikit-learn | XGBoost
-- **Logros**: Precisión del 99% en predicción de impago
+- **Logros**: Precisión del 99% en el modelo
 - **Técnicas**: Feature engineering, Random Forest y XGBoost
 _Puedes probarlo directamente desde este enlace: https://creditcard-deploy.streamlit.app/_
 
@@ -52,7 +52,7 @@ _Puedes probarlo directamente desde este enlace: https://creditcard-deploy.strea
 
 [![Commits Activity](https://github-readme-stats.vercel.app/api/wakatime?username=0xfabrica&layout=compact&theme=dark&hide_border=true)](https://github.com/0xfabrica)
 
-[![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=0xfabrica&repo=sales_data&theme=radical)](https://github.com/0xfabrica/sales_data)
+![0xfabrica's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xfabrica&theme=nightowl&hide_border=true)
 
 ---
 
