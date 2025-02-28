@@ -4,7 +4,7 @@
 [![GitHub Follow](https://img.shields.io/github/followers/0xfabrica?label=Follow%20My%20Code&style=social)](https://github.com/0xfabrica)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/izan-medkouri-a01071266/)
 
-Desarrollador full-stack enfocado en soluciones data-driven, con 1 año de experiencia creando sistemas que integran análisis predictivo y modelos de Machine Learning para optimizar procesos y generar insights valiosos. Además, cuento con conocimientos en inversión en blockchain.
+Desarrollador full-stack enfocado en soluciones data-driven, con 1 año de experiencia creando sistemas que integran análisis predictivo y modelos de Machine Learning para optimizar procesos y generar insights valiosos. Además, cuento con conocimientos en blockchain.
 
 🔧 **Stack principal**: Python | SQL | Scikit-learn  
 🌱 **Actualidad**: Optimizando modelos de clustering para análisis de datos avanzados
