@@ -1,4 +1,4 @@
-# ¡Hola, soy Izan Medkouri Lopez! 👋  
+# ¡Hola, soy Izan! 👋  
 **Machine Learning | Data Science**  
 
 [![GitHub Follow](https://img.shields.io/github/followers/0xfabrica?label=Follow%20My%20Code&style=social)](https://github.com/0xfabrica)
