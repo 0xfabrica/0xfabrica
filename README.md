@@ -13,17 +13,17 @@ Desarrollador full-stack enfocado en soluciones data-driven, con 1 año de exper
 
 ## 🏆 Proyectos Destacados
 
-### [📊 Predicción de Precio de Cierre de NVDA](https://github.com/0xfabrica/nvda_lr)
-_Aplicación de Machine Learning para predecir el precio de cierre de NVDA con levantamiento de api con fastapi_
+### [📊 Predicción de Cierre de NVDA]([https://github.com/0xfabrica/nvda_dtc_api)
+_Aplicación de Machine Learning para predecir el cierre de NVDA con levantamiento de api con fastapi_
 - **Stack**: Python | FastAPI | Streamlit | Scikit-learn
-- **Logros**: Precisión del modelo 0.9999 en regresión lineal
+- **Logros**: Precisión del modelo 0.94 en DecisionTreeClassifier
 - **Técnicas**: Preprocesamiento avanzado de datos y API de predicción
 
 ### [🛡️ Detección de Phishing con ML](https://github.com/0xfabrica/phising-detection-ml)
-_Modelo de Machine Learning para identificar URLs sospechosas de phishing_
-- **Stack**: Python | Streamlit | Scikit-learn
-- **Logros**: Precisión del 98% en detección de phishing
-- **Técnicas**: Feature engineering y Random Forest Classifier
+_Modelo de Machine Learning para identificar URLs sospechosas de phishing con Streamlit_
+- **Stack**: Python | Streamlit | Scikit-learn | XGboost
+- **Logros**: Precisión del 0.9313% en detección de phishing
+- **Técnicas**: Feature engineering y XGboost
 _Puedes probarlo directamente desde este enlace: https://phising-detection-ml.streamlit.app/_
 
 ### [💳 Modelo de Morosidad en Tarjetas de Crédito](https://creditcard-deploy.streamlit.app/)
