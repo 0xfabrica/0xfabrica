@@ -13,7 +13,7 @@ Desarrollador full-stack enfocado en soluciones data-driven, con 1 año de exper
 
 ## 🏆 Proyectos Destacados
 
-### [📊 Predicción de Cierre de NVDA]([https://github.com/0xfabrica/nvda_dtc_api)
+### [📊 Predicción de Cierre de NVDA](https://github.com/0xfabrica/nvda_dtc_api)
 _Aplicación de Machine Learning para predecir el cierre de NVDA con levantamiento de api con fastapi_
 - **Stack**: Python | FastAPI | Streamlit | Scikit-learn
 - **Logros**: Precisión del modelo 0.94 en DecisionTreeClassifier
