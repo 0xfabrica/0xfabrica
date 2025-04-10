@@ -52,7 +52,7 @@ _Puedes probarlo directamente desde este enlace: [Click Aquí](https://creditcar
 
 ![0xfabrica's Stats](https://github-readme-stats.vercel.app/api?username=0xfabrica&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
-![0xfabrica's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xfabrica&theme=nightowl&hide_border=true)
+![0xfabrica's Streak](https://git-hub-streak-stats.vercel.app?user=0xfabrica&theme=buefy-dark&hide_border=true&border_radius=4.7&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
 ---
 
