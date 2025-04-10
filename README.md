@@ -24,15 +24,15 @@ _Modelo de Machine Learning para identificar URLs sospechosas de phishing con St
 - **Stack**: Python | Streamlit | Scikit-learn | XGboost
 - **Logros**: Precisión del 0.9313% en detección de phishing
 - **Técnicas**: Feature engineering y XGboost
-_Puedes probarlo directamente desde este enlace: https://phising-detection-ml.streamlit.app/_
+_Puedes probarlo directamente desde este enlace: [Click Aquí](https://phising-detection-ml.streamlit.app/)_
 
-### [💳 Modelo de Morosidad en Tarjetas de Crédito](https://creditcard-deploy.streamlit.app/)
+### [💳 Modelo de Morosidad en Tarjetas de Crédito](https://github.com/0xfabrica/creditcard-fraud)
 *Sistema de Machine Learning para predecir morosidad en clientes*
 
 - **Stack**: Python | Streamlit | Scikit-learn | XGBoost
 - **Logros**: Precisión del 82% en el modelo (checkea las métricas en la página de prueba)
 - **Técnicas**: Feature engineering, Random Forest y XGBoost
-_Puedes probarlo directamente desde este enlace: https://creditcard-ml.streamlit.app/_
+_Puedes probarlo directamente desde este enlace: [Click Aquí](https://creditcard-ml.streamlit.app/)_
 
 
 
