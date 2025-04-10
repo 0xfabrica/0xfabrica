@@ -30,9 +30,9 @@ _Puedes probarlo directamente desde este enlace: https://phising-detection-ml.st
 *Sistema de Machine Learning para predecir morosidad en clientes*
 
 - **Stack**: Python | Streamlit | Scikit-learn | XGBoost
-- **Logros**: Precisión del 99% en el modelo
+- **Logros**: Precisión del 82% en el modelo (checkea las métricas en la página de prueba)
 - **Técnicas**: Feature engineering, Random Forest y XGBoost
-_Puedes probarlo directamente desde este enlace: https://creditcard-deploy.streamlit.app/_
+_Puedes probarlo directamente desde este enlace: https://creditcard-ml.streamlit.app/_
 
 
 
