@@ -18,6 +18,7 @@ _Aplicación de Machine Learning para predecir el cierre de NVDA con levantamien
 - **Stack**: Python | FastAPI | Streamlit | Scikit-learn
 - **Logros**: Precisión del modelo 0.94 en DecisionTreeClassifier
 - **Técnicas**: Preprocesamiento avanzado de datos y API de predicción
+_Puedes probarlo en local_
 
 ### [🛡️ Detección de Phishing con ML](https://github.com/0xfabrica/phising-detection-ml)
 _Modelo de Machine Learning para identificar URLs sospechosas de phishing con Streamlit_
