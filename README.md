@@ -7,7 +7,7 @@
 Desarrollador full-stack enfocado en soluciones data-driven, con 1 año de experiencia creando sistemas que integran análisis predictivo y modelos de Machine Learning para optimizar procesos y generar insights valiosos. Además, cuento con conocimientos en blockchain.
 
 🔧 **Stack principal**: Python | SQL | Scikit-learn | Reinforcement Learning | CNN
-🌱 **Actualidad**: Optimizando modelos de Deep Learning para análisis avanzados.
+🌱 **Actualidad**: Optimizando modelos de Deep Learning y Reinforcement Learning para análisis avanzados.
 
 ---
 
