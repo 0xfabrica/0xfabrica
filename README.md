@@ -1,5 +1,5 @@
-# ¡Hola, soy Izan! 👋  
-**Machine Learning | Data Scientist**  
+# ¡Hola, soy Izan! 👋
+**Machine Learning | Data Scientist**
 
 [![GitHub Follow](https://img.shields.io/github/followers/0xfabrica?label=Follow%20My%20Code&style=social)](https://github.com/0xfabrica)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/izan-medkouri-a01071266/)
@@ -39,24 +39,23 @@ _Puedes probarlo directamente desde este enlace: [Click Aquí](https://phising-d
 
 ### [💳 Modelo de Morosidad en Tarjetas de Crédito](https://github.com/0xfabrica/creditcard-fraud)
 *Sistema de Machine Learning para predecir morosidad en clientes*
-
 - **Stack**: Python | Streamlit | Scikit-learn | XGBoost
 - **Logros**: Precisión del 82% en el modelo (checkea las métricas en la página de prueba)
 - **Técnicas**: Feature engineering, Random Forest y XGBoost
 
 _Puedes probarlo directamente desde este enlace: [Click Aquí](https://creditcard-ml.streamlit.app/)_
 
-
-
-
 ---
 
 ## ⚙️ Arquitecturas Implementadas
 
-| Proyecto           | Patrón                 | Complejidad | Impacto  |
-|--------------------|------------------------|-------------|----------|
-| Credit Risk Model  | Pipeline ML modular    | ★★★★☆      | 40% ROI  |
-| Sales Dashboard    | ETL + Visualización    | ★★★☆☆      | 25k ops  |
+He diseñado y desplegado diversas arquitecturas, desde pipelines de Machine Learning modulares hasta sistemas complejos de Reinforcement Learning. Cada proyecto se enfoca en la eficiencia, escalabilidad y el impacto medible.
+
+| Proyecto | Patrón | Complejidad | Impacto |
+| :--- | :--- | :--- | :--- |
+| **RL Robotic Agent** | **Actor-Critic (RL Loop)** | ★★★★★ | **Benchmark solved** |
+| Credit Risk Model | Pipeline ML modular | ★★★★☆ | 40% ROI |
+| Sales Dashboard | ETL + Visualización | ★★★☆☆ | 25k ops |
 
 ---
 
@@ -90,6 +89,5 @@ _Puedes probarlo directamente desde este enlace: [Click Aquí](https://creditcar
 **Canales técnicos:**
 - 🐛 **Issues en repos**: [Reportar bugs](https://github.com/0xfabrica/sales_data/issues)
 - 📄 **Propuestas técnicas**: izanfabrica2014@icloud.com
-- 
-![Coding Flow](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
 
+![Coding Flow](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
