@@ -19,7 +19,7 @@ _Agente de Reinforcement Learning que aprende la manipulación robótica para re
 - **Logros**: Entrenamiento exitoso del agente para resolver la tarea FetchPickAndPlace-v4 usando recompensas dispersas.
 - **Técnicas**: Reinforcement Learning, Soft Actor-Critic (SAC), Hindsight Experience Replay (HER).
 
-_Puedes ver una demo en vídeo y probar el modelo en local._
+_Puedes ver una demo en vídeo y probar el modelo en local desde HuggingFace [Click Aquí](https://huggingface.co/IntelliGrow/FetchPickAndPlace-v4)._
 
 ### [📊 Predicción de Cierre de NVDA](https://github.com/0xfabrica/nvda_dtc_api)
 _Aplicación de Machine Learning para predecir el cierre de NVDA con levantamiento de api con fastapi_
