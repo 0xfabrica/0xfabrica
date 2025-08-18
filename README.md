@@ -13,11 +13,20 @@ Desarrollador full-stack enfocado en soluciones data-driven, con 1 año de exper
 
 ## 🏆 Proyectos Destacados
 
+### [🦾 Agente Robótico de Pick & Place con RL](https://huggingface.co/IntelliGrow/FetchPickAndPlace-v4)
+_Agente de Reinforcement Learning que aprende la manipulación robótica para recoger y colocar objetos en un entorno simulado._
+- **Stack**: Python | Stable Baselines3 | Gymnasium Robotics
+- **Logros**: Entrenamiento exitoso del agente para resolver la tarea FetchPickAndPlace-v4 usando recompensas dispersas.
+- **Técnicas**: Reinforcement Learning, Soft Actor-Critic (SAC), Hindsight Experience Replay (HER).
+
+_Puedes ver una demo en vídeo y probar el modelo en local._
+
 ### [📊 Predicción de Cierre de NVDA](https://github.com/0xfabrica/nvda_dtc_api)
 _Aplicación de Machine Learning para predecir el cierre de NVDA con levantamiento de api con fastapi_
 - **Stack**: Python | FastAPI | Streamlit | Scikit-learn
-- **Logros**: Precisión del modelo 0.94 en DecisionTreeClassifier
-- **Técnicas**: Preprocesamiento avanzado de datos y API de predicción
+- **Logros**: Precisión del modelo 0.94 en DecisionTreeClassifier.
+- **Técnicas**: Preprocesamiento avanzado de datos y API de predicción.
+
 _Puedes probarlo en local_
 
 ### [🛡️ Detección de Phishing con ML](https://github.com/0xfabrica/phising-detection-ml)
@@ -25,6 +34,7 @@ _Modelo de Machine Learning para identificar URLs sospechosas de phishing con St
 - **Stack**: Python | Streamlit | Scikit-learn | XGboost
 - **Logros**: Precisión del 0.9313% en detección de phishing
 - **Técnicas**: Feature engineering y XGboost
+
 _Puedes probarlo directamente desde este enlace: [Click Aquí](https://phising-detection-ml.streamlit.app/)_
 
 ### [💳 Modelo de Morosidad en Tarjetas de Crédito](https://github.com/0xfabrica/creditcard-fraud)
@@ -33,6 +43,7 @@ _Puedes probarlo directamente desde este enlace: [Click Aquí](https://phising-d
 - **Stack**: Python | Streamlit | Scikit-learn | XGBoost
 - **Logros**: Precisión del 82% en el modelo (checkea las métricas en la página de prueba)
 - **Técnicas**: Feature engineering, Random Forest y XGBoost
+
 _Puedes probarlo directamente desde este enlace: [Click Aquí](https://creditcard-ml.streamlit.app/)_
 
 
